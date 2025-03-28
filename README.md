@@ -5,14 +5,12 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chhavi-adlakkha&label=Profile%20views&color=0e75b6&style=flat" alt="chhavi-adlakkha" /> </p>
 
-- 🌱 I’m currently learning **MERN Stack technologies**
+- 🌱 I’m currently learning **Salesforce and Zoho**
 
-- 💬 Ask me about **Java ,DSA and React.js**
+- 💬 Ask me about ** Salesforce ,Zoho ,Java ,DSA **
 
 - 📫 How to reach me **chhaviadlakha1122@gmail.com**
-
-- ⚡ Fun fact **I am not Funny 🙂.**
-
+- 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/chhavi adlakkha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chhavi adlakkha" height="30" width="40" /></a>
